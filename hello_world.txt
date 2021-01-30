@@ -1,0 +1,15 @@
+shcm
+nano
+hello
+nano
+cp
+type
+gc
+sc
+sl
+si
+set
+shcm
+set-location
+ac
+touch
